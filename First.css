@@ -1,0 +1,45 @@
+body 
+{   
+  
+    background-image: url("dog.jpeg"); 
+
+}
+p
+{
+    text-align: center;
+    font-size: 50px;
+    font-family:monospace;
+    font-style:italic;
+    font-weight: bold;
+    color:grey;
+    color: #3333bb;
+    text-decoration:underline;
+  /*  text-decoration: underline;
+  */
+    text-decoration-color: rgba(39, 36, 184, 0.829);
+ 
+   
+}
+
+h1
+{
+    color:rgb(12, 137, 137);
+    text-align: rirht;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+button {
+    background-color: rgb(41, 41, 187);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    cursor: pointer;
+    background-color: lightblue;
+  }
